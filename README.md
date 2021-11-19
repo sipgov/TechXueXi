@@ -11,7 +11,7 @@
 可以点击右上角 watch 接收关于本项目的通知邮件，新版本提醒等。
 
 > 本项目基于某已终止的项目，请自行搜索后前往star。我们由衷地敬佩这个领域的先锋们。  
-> 这是全网较好的成熟产品，但已停止，我们于心不忍。本仓库现由“科技强国”组织进行维护。
+> 这是全网较好的成熟产品，但已停止，我们于心不忍。本仓库现由“科技国”组织进行维护。
 
 > **所有问题请到本项目这里提，不要打扰原作者。**
 
@@ -27,7 +27,7 @@
 # TechXueXi
 <p align="center">TechXueXi 是一款使用python语言编写的学 xi 工具。可达 45 分/天</p>
 
-<p align="center"><img src="https://github.com/TechXueXi/TechXueXi/blob/master/img_folder/peoplelearning.jpg?raw=true" alt="学 xi 情景"/></p>
+<p align="center"><img src="" alt="学 xi 情景"/></p>
 
 <p align="center"><a href="https://github.com/TechXueXi/TechXueXi/watchers"><img src="https://img.shields.io/github/watchers/TechXueXi/TechXueXi.svg?style=social" alt="GitHub watchers"/></a>&nbsp;
 <a href="https://github.com/TechXueXi/TechXueXi/stargazers"><img src="https://img.shields.io/github/stars/TechXueXi/TechXueXi.svg?style=social" alt="GitHub stars"/></a>&nbsp;
@@ -167,18 +167,18 @@ win平台可能提示`无法定位程序输入点ucrtbase.terminate于动态链�
 
 ### [👨‍👨‍👦‍👦 直接参与贡献](https://github.com/TechXueXi/TechXueXi/blob/dev/CONTRIBUTING.md)(内附提交方法)
 
-如您开发了其他“科技强国”项目，也可以加入本组织，相互交流，共同维护生态。
+如您开发了其他“科技国”项目，也可以加入本组织，相互交流，共同维护生态。
 
 ### 🙋‍♂️ 加入组织
 https://github.com/TechXueXi/TechXueXi/issues/2
 
-# 📌关于学 xi 强国
+# 📌关于学 xi 国
 
-个人认为，学 xi 强国本身受众就是国家的栋梁，本人不欢迎不热爱国家的人加入本项目。
+个人认为，学 xi 国本身受众就是国家的栋梁，本人不欢迎不热爱国家的人加入本项目。
 
-学 xi 强国聚合了大量可免费阅读的期刊、古籍、公开课、歌曲、戏曲、电影、图书等资料，内容严谨，专业性强。没有博眼球，无下限的自媒体内容和虚假新闻。推荐大家自发积极学 xi 使用。TechXueXi 仅额外提供给上班上学期间工作学业繁重，抽不出时间完成学 xi 强国任务的非程序员。
+学 xi 国聚合了大量可免费阅读的期刊、古籍、公开课、歌曲、戏曲、电影、图书等资料，内容严谨，专业性强。没有博眼球，无下限的自媒体内容和虚假新闻。推荐大家自发积极学 xi 使用。TechXueXi 仅额外提供给上班上学期间工作学业繁重，抽不出时间完成学 xi 国任务的非程序员。
 
-“学 xi 强国”意义深远。
+“学 xi 国”意义深远。
 
 
 
